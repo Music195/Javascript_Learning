@@ -1,0 +1,41 @@
+body {
+  background-color: slategrey;
+}
+
+.box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.textArea {
+  margin-top: 20px;
+}
+
+.commentBox {
+  display: block;
+  width: 400px;
+  padding: 20px;
+  font-size: 15px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.commentButton {
+  margin-top: 30px;
+}
+
+.parentStoredBox {
+  width: 400px;
+  background-color: white;
+  border-radius: 5px;
+  margin-top: 18px;
+}
+
+.storedBox {
+  height: 25px;
+  margin: 12px;
+  padding-bottom: 19px;
+  border-bottom: 1px solid black;
+}

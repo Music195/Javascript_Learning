@@ -1,0 +1,373 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+.menu {
+    background-color: rgb(255, 255, 255);
+    padding: 30px 152px 30px;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    position: sticky;
+    top: 0;
+    margin: ;
+    border-bottom: 1px solid rgb(229, 229, 229);
+    opacity: 0.97;
+}
+
+.menuitem {
+    display: inline-block;
+    padding: 0 0 0px;
+    background-color: ;
+    margin-bottom: 0px;
+    margin-top: px;
+    font-family: Calibre, Helvetica Neue, Segoe UI, Helvetica, Arial, Lucida Grande, sans-serif;
+    text-align: left;
+    margin: ;
+}
+
+.rooms:hover {
+    border-bottom-style: solid;
+    color: springgreen;
+}
+
+.features:hover {
+    border-bottom-style: solid;
+    color: springgreen;
+}
+
+.privacyandsafety:hover {
+    border-bottom-style: solid;
+    color: springgreen;
+}
+
+.fordevelopers:hover {
+    border-bottom-style: solid;
+    color: springgreen;
+}
+
+
+.rooms {
+    text-decoration: none;
+    color: inherit;
+    margin-bottom: 20px;
+    margin-right: 30px;
+}
+
+.features {
+    text-decoration: none;
+    color: inherit;
+    margin-bottom: 20px;
+    margin-right: 30px;
+}
+
+.privacyandsafety {
+    text-decoration: none;
+    color: inherit;
+    margin-bottom: 20px;
+    margin-right: 30px;
+}
+ 
+.fordevelopers {
+    text-decoration: none;
+    color: inherit;
+    margin-bottom: 20px;
+    margin-right: 30px;
+}
+
+.logo {
+    width: 40px;
+    height: 40px;
+    margin: px;
+    margin-top: px;
+    background-color: ;
+    display: inline-block;
+       
+}
+
+.logoplace {
+    margin: 0 ;
+    background-color: ;
+}
+
+.header {
+    font-size: 80px;
+    letter-spacing: -4px;
+    line-height: 85px;
+    background-image: linear-gradient(83.84deg, #0088FF -6.87%, #A033FF 26.54%, #FF5C87 58.58%);
+    margin-bottom: 0;
+    font-family:  Calibre, Helvetica Neue, Segoe UI, Helvetica, Arial, Lucida Grande, sans-serif;
+    text-align: left;
+    -webkit-background-clip: text;
+    color: transparent;
+    font-weight: 550;
+    padding: 0 0 55px;
+    margin-top: 10px;
+
+}
+
+.description {
+    margin-bottom: 25px;
+    color: #595959;
+    margin: 3px 0 38px;
+    display: block;
+    padding-right: 0px;
+    font-family: Calibre, Helvetica Neue, Segoe UI, Helvetica, Arial, Lucida Grande, sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.left {
+    display: block;
+    width: 478px;
+    background-color: ;
+  
+}
+
+.right {
+    width: 598px; 
+    background-color: ;
+    display: block;
+ 
+}
+
+.leftimg {
+    width: 150px;
+    height: 120px;
+    display: inline-block;
+}
+
+.rightimg {
+    width: 100%;
+    display: block;
+    padding-left: px;
+    padding-top: 30px;
+   
+   
+}
+
+.textbox {
+    display: block;
+    margin-bottom: 12px;
+    background-color: rgba(0, 0, 0, .04);
+    border: none;
+    margin-top: 15px;
+    border-radius: 10px;
+    height: 36px;
+    font-family: Calibre, Helvetica Neue, Segoe UI, Helvetica, Arial, Lucida Grande, sans-serif;
+    font-size: 19px;
+    padding: 8px 16px;
+    box-sizing: border-box;
+    width: 360px;
+    outline: none;
+}
+.passwordbox {
+    display: block;
+    margin-bottom: 12px;
+    background-color: rgba(0, 0, 0, .04);
+    border: none;
+    border-radius: 10px;
+    height: 36px;
+    font-family: Calibre, Helvetica Neue, Segoe UI, Helvetica, Arial, Lucida Grande, sans-serif;
+    font-size: 19px;
+    padding: 8px 16px;
+    box-sizing: border-box;
+    width: 360px;
+    outline: none;
+
+
+}
+
+.login {
+    border: 1px solid #0084ff;
+    background-color: #0084ff;
+    color: white;
+    font-family:Calibre, Helvetica Neue, Segoe UI, Helvetica, Arial, Lucida Grande, sans-serif;
+    margin-top: 20px;
+    margin-bottom: 12px;
+    margin-left: 0px;
+    margin-right: 0px;
+    height: 40px;
+    width: auto;
+    padding: 1px 20px 3px;
+    font-size: 19px;
+    border-radius: 24px;
+    line-height: 17px;
+    font-weight: 600;
+}
+
+.login:hover {
+    background-color: rgb(17, 14, 201);
+}
+
+.forgetyourpassword {
+    display: inline-block;
+    font-size: 15px;
+    margin-left: 15px;
+    font-family:Calibre, Helvetica Neue, Segoe UI, Helvetica, Arial, Lucida Grande, sans-serif;
+    font-weight: 500;
+    text-align: left;
+    color: #0a7cff;
+}
+
+.checkboxandkeepmesignedin {
+    display: block;
+    margin-top: 20px;
+    font-family: Calibre, Helvetica Neue, Segoe UI, Helvetica, Arial, Lucida Grande, sans-serif !important;
+}
+
+
+.checkbox {
+    display: inline-block;
+}
+
+.keepmesignedin {
+    font-size: 12px;
+    margin-left: 2px;
+    color: #595959;
+    font-size: 15px;
+    line-height: 15px;
+
+}
+
+
+.container {
+    display: flex;
+    background-color:;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+}
+
+.foot {
+    background-color: ;
+    padding: 100px 16px 50px ;
+    font-size: 15px;
+    display: flex;
+    align-items: ;
+    justify-content: center;
+    flex-wrap: wrap;
+    text-align: center;
+    align-items: center;
+}
+ 
+.box {
+    margin: 0 auto;
+    max-width: ;
+    width: 80%;
+}
+
+.playstoreimg {
+    width: 30%;
+    border-radius: 30px;
+}
+
+.appstoreimg {
+    width: 30%;
+}
+
+.appstoreandplaystore {
+    margin-top: 16px;
+}
+
+.datapolicy {
+    margin-left: px;
+    text-decoration: none;
+    color: rgb(87, 84, 84);
+    display: block;
+    padding: 0 60px;
+}
+
+.terms {
+    padding: 0 60px;
+    text-decoration: none;
+    color: rgb(87, 84, 84);
+    display: block;
+    padding-top:0px
+}
+
+.fromfacebook {
+    padding-right: ;
+    padding: 10px;
+    background-color: ;
+    display: ;
+}
+
+.appleandgoogle {
+    padding: 0 10px;
+}
+
+.shortcut {
+    display: none;
+   
+}
+
+.shortcutitem {
+    height: 29px;
+    width: 30px;
+    padding-top: 15px;
+}
+
+@media ( max-width: 760px) {
+    .menuitem {
+        display: none;
+    }
+
+    .shortcut {
+        display: block;
+    }
+
+}
+
+.leftinner {
+    margin: 0;
+    background-color: ;
+}
+
+@media ( max-width: 1000px) {
+    
+    .left {
+        margin: 0 auto;
+    }
+    
+    .right {
+        margin: 0 auto;
+    }
+
+    .header {
+        text-align: center;
+        padding-bottom: 30px;
+        font-size: 50px;
+        line-height: 50px;
+    }
+
+    .description {
+        text-align: center;
+        margin-bottom: 80px;
+        display: block;
+    }
+
+    .actionbox { 
+        margin: 10px auto;
+    }
+
+    .textbox {
+        background-color: ;
+        margin: 30px auto;
+        padding: ;
+        width: 100%;
+    }
+
+    .passwordbox {
+        margin: 30px auto;
+        width: 100%;
+    }
+
+    .appstoreandplaystore {
+        margin-top: 40px;
+    }
+}

@@ -1,0 +1,26 @@
+.t {
+    display: flex;
+    justify-content: center;
+    position: fixed;
+    bottom: 0px;
+    width: 100vw;
+}
+
+.fail {
+    display: flex;
+    position: fixed;
+    margin: auto;
+    width: 100%;
+    color: rgb(228, 28, 28);
+    justify-content: center;
+    align-items: baseline;
+    padding: 10px;
+    background-color: yellowgreen;
+    transition: all 1s ease;
+}
+
+p {
+    font-size: 20px;
+    padding-right: 10px;
+}
+

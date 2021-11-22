@@ -1,0 +1,342 @@
+.column {
+  
+}
+
+.box {
+    padding: 20px;
+    background-color: white;
+    width: 270px;
+    margin: 20px 10px;
+    border-radius: 3px;
+}
+
+.boxes {
+    background-color: white;
+    width: 290px;
+    margin: 10px;
+} 
+
+.board {
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    font-size: 10px;
+}
+
+.font {
+  font-family: 'Roboto', sans-serif;
+}
+
+.h {
+    font-weight: 500;
+    font-size: 13px;
+    margin-bottom: 10px;
+
+
+}
+
+.op {
+    opacity: 0.5;
+
+}
+
+/* for first column */
+  
+.firstimg {
+    width: 100%;
+    border-radius: 2px;
+}
+
+.compare {
+    padding: 10px 0;
+}
+
+.spacebetween {
+    display: flex;
+    justify-content:space-between;
+    margin: 10px 0;
+}
+
+.gotoanalytics {
+    color: rgb(15, 115, 230);
+    font-size: 11px;
+    font-weight: 700;
+    padding: 15px 0;
+}
+
+.seecomments {
+    color: rgb(15, 115, 230);
+    font-size: 11px;
+    font-weight: 700;
+    padding-bottom: 6px;
+}
+
+.newupdates {
+    margin: 20px 0;
+}
+
+.newsimg {
+    border-radius: 60px;
+    width: 20px;
+    margin-right: 8px;
+}
+
+.channel {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 10px 0;
+}
+
+.sc {
+    font-size: 20px;
+    padding: 5px 0;
+}
+
+.divider {
+    background-color: lightgray;
+    height: 1px;
+    margin: 15px 0;
+}
+
+.summarylists {
+    display: flex;
+    justify-content: space-between;
+    padding: 6px 0;
+
+}
+
+.G {
+    color: green;
+}
+
+.summaryday {
+    margin-bottom: 7px;
+
+}
+
+.summary {
+    margin-bottom: 5px;
+}
+
+.topvideolists {
+    margin: 9px 0;
+}
+
+.topvideos {
+    display: flex;
+    justify-content: space-between;
+    padding: 3px 0;
+ 
+}
+
+
+
+.topvideosname {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.gotochannelanalytics  {
+    margin: -10px 0;
+}
+
+.sh {
+    margin: 4px 0;
+}
+
+.comments {
+    display: flex;
+    justify-content: space-between;
+    margin: 3px 0;
+    align-items: center;
+}
+
+.pp {
+    width: 30px;
+    height: 30px;
+    border-radius: 90px;
+    margin-right: 7px;
+}
+
+.pc {
+    width: 90px;
+}
+
+.pcw {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    padding-top: 4px;
+}
+
+.vp {
+    width: 100%;
+}
+
+.vpd {
+    width: 80px;
+    height: 50px;
+}
+
+.sdivider {
+    margin: 5px 0;
+    height: 1px;
+    background-color: lightgray;
+}
+
+.pt {
+    margin-top: ;
+}
+
+.wnis {
+    margin-top: 24px;
+    margin-bottom: 5px;
+}
+
+.ifyfl {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 19px;
+}
+
+.ifyflw {
+    font-weight: 600;
+}
+
+.tsecondib {
+    padding-right: 17px;
+    padding: 20px;
+}
+
+.ifysl {
+    display: flex;
+    justify-content: space-between;
+    margin: 15px 0;
+    align-items: center;
+}
+
+.ifyslw {
+    width: 140px;
+}
+
+.ifyslimg {
+    width: 50px;
+    height: 50px;
+    margin-right: 20px;
+
+    
+  
+}
+
+.ifyslimgc {
+    width: 100%;
+    height: 100%;
+    border-radius: 90px;
+}
+
+.dnbmg {
+   border-top: 1px solid  lightgray;
+   text-align: center;
+   padding: 10px 0;
+
+}
+
+.l {
+    display: flex;
+    justify-content: flex-start;
+    margin: 13px 0;
+}
+
+.seeall {
+    padding-bottom: 0;
+}
+
+
+.sidebox {
+    width: 220px;
+    background-color: white;
+    display: flex;
+    margin-right: 15px;
+    flex-direction: column;
+}
+
+.tac {
+    text-align: center;
+}
+
+.nfs {
+    font-size: 13px;
+}
+
+.p {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.mpp {
+    border-radius: 79px;
+    width: 100px;
+}
+
+.psbc {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin: 30px auto;
+    width: 100%;
+
+   
+}
+
+.mi {
+    margin-top: 20px;
+    margin-bottom: 4px;
+}
+
+.md {
+    margin-top: 3px;
+}
+
+.sbcn {
+    display: flex;
+    justify-content: flex-start;
+    font-size: 14px;
+    font-weight: 500;
+    font-family: "YT Sans", "Roboto", "Arial", sans-serif;
+    margin: 40px 0 40px 20px;
+}
+
+.icon {
+    margin-right: 30px;
+}
+
+.tf {
+    position: fixed;
+    top: 0;
+    background-color: white;
+    margin: 0 auto;
+}
+
+.bf {
+    margin-top: px;
+}
+
+.psbcc {
+    width: 100%;
+    background-color: ;
+    display: flex;
+    align-items: center;
+}
+
+.sbc {
+    overflow: auto;
+    background-color: ;
+    height: 340px;
+    margin: -10px 0;
+}

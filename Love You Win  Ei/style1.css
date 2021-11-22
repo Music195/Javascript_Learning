@@ -1,0 +1,82 @@
+.styleTest {
+    width: 500px;
+    height: 400px;
+    background-color: lightgreen;
+}
+
+.girl {
+    height: 400px;
+    display: block;
+    margin-top: 90px;
+}
+
+.inputContainer {
+    background-color: ;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.board {
+    background-color: ;
+    max-width: 700px;
+    margin:20px auto;
+   
+}
+
+body {
+    background-color: lightgrey;
+   
+}
+
+.mainboard {
+ 
+
+}
+
+.shoppingListContainer {
+    margin-top: 20px;
+}
+ 
+.productName {
+    padding: 10px;
+    display: block;
+    margin-top: 8px;
+    background-color: white;
+    border-radius: 5px;
+  
+}
+
+.purchased {
+    text-decoration: line-through;
+}
+
+.fas {
+    cursor: pointer;
+    user-select: none;
+    color: rgba(243, 69, 77, 0.979);
+    padding: 5px 4px;
+    background-color: rgba(0, 219, 146, 0.911);
+}
+
+.spanName {
+    display:inline-block;
+    width: 500px;
+    background-color: white;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.spanName:hover {
+    overflow: visible;
+}
+
+
+.listBox {
+    background-color: rgb(211, 211, 211);
+    border-radius: 5px;
+    margin-bottom: 8px;
+  
+
+
+}
