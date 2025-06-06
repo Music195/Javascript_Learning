@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+    color: #e70d0d;
+}
+
+p {
+    text-align: center;
+    font-size: 1.2em;
+    color: #333;
+}
+#gameContainer {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+#label {
+    font-size: 1.5em;
+    color: #333;
+}
