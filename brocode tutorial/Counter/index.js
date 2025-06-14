@@ -11,8 +11,14 @@ incrementButton.onclick = function() {
 }
 
 decrementButton.onclick = function() {
-    count--;
-    countLabel.textContent = count;
+    if (count <= 0) {
+        alert("Count cannot be less than zero.");
+        return;
+    } else {
+        count--;
+        countLabel.textContent = count;
+    }
+    
 }
 
 resetButton.onclick = function() {
